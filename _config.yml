@@ -1,0 +1,59 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+
+# Site settings
+title: "UoM Bioinfo Soc"
+description: "Bioinformatics Society at the University of Manchester Faculty of Life Sciences. We organise training events and seminars in computational biology."
+
+email: uombioinfosoc@gmail.com
+#blog logo
+logo: "/assets/images/bioinfo_soc_logo_300x300.jpg"
+# blog cover
+cover: "/assets/images/bioinfo_soc_logo_banner.jpg"
+
+name: 'University of Manchester Bioinformatics Society'
+author: 'UoM Bioinfo Soc'
+author_image: "/assets/images/bioinfo_soc_logo_300x300.jpg"
+
+paginate:	5
+
+url: "http://UoMBioinfoSoc.github.io" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@UoMBioinfoSoc'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/UoMBioinfoSoc
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook
+    url:	https://facebook.com/UoMBioinfoSoc
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/UoMBioinfoSoc
+    desc:	Check out our source code on GitHub
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
