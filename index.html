@@ -1,95 +1,72 @@
 ---
+title: Protein Viewer
 layout: default
 ---
+			
+<!-- Banner -->
+	<section id="banner">
+		<header>
+			<h2>Mol-Vis-Hack </h2> <em> A browser-based 3D Large-Model Viewer to provide beautiful, modular and user annotated 3D models of proteins and other molecular structures </em>
+		</header>
+	</section>
 
-<div class="teaserimage">
-    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
-        Teaser Image
-    </div>
-</div>
+<!-- Gigantic Heading -->
+	<section class="wrapper style2">
+		<div class="container">
+			<header class="major">
+				<h2 id="about-our-hack">About our hack</h2>
+				<p>Using the browser-based 3D Large-Model Viewer API provided by Autodesk we aim to be able to provide beautiful, modular and user annotated 3D models of proteins and other molecular structures. Today most online protein 3D viewers are rather crude and so this application could possesses a huge promise for the provision of high quality scientific communication and educational tools, as well as potentially assisting in research directly.
 
-<header class="blog-header">
-    {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
-    {% endif %}
-    <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
-    <div class="custom-links">
-      {% for social in site.social %}
-        {% if social.url %}
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
-              <i class="fa fa-{{ social.icon }}"></i>
-            </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
-        {% endif %}
-      {% endfor %}
-      <a href="/about/">About</a>
-    </div>
-</header>
+There is a wealth of structural and atomic location data for molecular molecular to be found on the well-established and still rapidly expanding Protein data base (PDB). We are therefore building a pipeline to convert the PDB formatted code into an .fbx file in order for it to be read by the Autodesk software.
 
+The pipeline is set up as follows:
 
-<main class="content" role="main">
+Potential room for development: working with customised extensions for any given structure.</p>
+			</header>
+		</div>
+	</section>
+	
+<!-- Highlights -->
+	<section class="wrapper style1">
+		<div class="container">
 
-    {% if site.tags.featured %}
-    <h5 class="index-headline featured"><span>Featured</span></h5>
+	<header class="major">
+				<h2 id="app-walkthrough">App Walkthrough</h2>
 
-    <div class="container featured">
-      {% for post in site.tags.featured %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
-            </div>
-          </div>
-        </article>
-      {% endfor %}
-    </div>
+The app is organised in four general steps, the latter of which are open to further development:
 
-    <h5 class="index-headline normal"><span>Regular</span></h5>
-    {% endif %}
+<ol type="1">
+  <p><li id="conv-trans"><br><strong>1. Conversion and translation</strong></br>
+	 Automating successive file conversion from archival PDB code to VRML format and then through .wrl file format (via UCSF Chimera) into the LMV compatible .fbx file format (via Blender).</p></li>
 
-    <div class="cf frame">
-      {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
-            </div>
-          </div>
-        </article>
-      {% endfor %}
-    </div>
+  <p><li id="lmv-hosting"><br><strong>2. Hosting models in LMV via the View and Data API</strong></br>
+	Hosting the converted format model files in the LMV API via their bucket storage.</p></li>
 
-    <nav class="pagination" role="navigation">
-      {% if paginator.next_page %}
-        <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
-      {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a class="older-posts" href="/">Newer posts &rarr;</a>
-        {% else %}
-          <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
-        {% endif %}
-      {% endif %}
-    </nav>
+  <p><li id="web-display"><strong>3. Webpage hosting for dynamic model display</strong></br>
+	Checking against a list of already processed PDB codes, or generation of new 3D models and uploading to Autodesk.com.</p>
 
+  <p><li id="extensions"><br><strong>4. Extensible models: annotation and exploration</strong></li></br>
+	Potential room for development: working with customised extensions for any given structure.</p></li>
+</ol>
+			</header>
 
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
+			<div class="row double">
+				<section class="4u">
 
-</main>
+<div style="opacity: 0">.</div>
+
+				</section>
+				<section class="4u">
+<a href="https://github.com/hackmcr15-code-a-la-mode/mol-vis-hack">
+					<div class="box highlight">
+
+						<i class="icon major fa-wrench"></i>
+						<h3>Use our hack</h3>
+					</div>
+</a>
+				</section>
+			</div>
+		</div>
+	</section>
+
+	{% include cta.html %}
