@@ -13,6 +13,7 @@ email: uombioinfosoc@gmail.com
 logo: "/assets/images/bioinfo_soc_logo_300x300.jpg"
 # blog cover
 cover: "/assets/images/bioinfo_soc_logo_banner.jpg"
+footer_cover: "/assets/images/bioinfo_soc_logo_banner_fade.jpg"
 
 name: 'University of Manchester Bioinformatics Society'
 author: 'UoM Bioinfo Soc'
