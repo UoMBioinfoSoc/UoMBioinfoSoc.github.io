@@ -2,9 +2,11 @@
 <img src="assets/images/bioinfo_soc_logo_300x300.png" />
 </p>
 
-Site underlying [uombioinfosoc.github.io/](https://uombioinfosoc.github.io/), based on the [mediator Jekyll theme](https://github.com/dirkfabisch/mediator).
+Site underlying <strike>[uombioinfosoc.github.io/](https://uombioinfosoc.github.io/)</strike> [uombio.info](http://uombio.info), based on the [mediator Jekyll theme](https://github.com/dirkfabisch/mediator).
 
 ## Contributing
+
+A guide to editing the site is underway in the [Wiki](https://github.com/UoMBioinfoSoc/UoMBioinfoSoc.github.io/wiki)
 
 This blog allows for per-post author attribution, and we're happy to accept community contributions as pull requests (e.g. your slides or notes from a BioinfoSoc talk!). 
 
