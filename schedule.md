@@ -27,7 +27,7 @@ Some proposed sessions we are seeking volunteers for:
 
 ## What would you like to know?
 
-We want to hear your ideas and wishes for Bioinfo Soc topics and will post a questionnaire online soon.
+We want to hear your ideas and wishes for Bioinfo Soc topics - please fill out the sign up questionnaire [online here](http://uombio.info/join/).
 
 ## Want to give a talk?
 
