@@ -136,6 +136,14 @@ input[type='checkbox']:checked {
     background: #3CE87F;
 }
 
+li.ss-choice-item.fri.four::after {
+    content: 'Current time for the Code for Life workshop series';
+    font-size: smaller;
+    font-style: italic;
+    color: red;
+    vertical-align: super;
+}
+
 </style>
 
 <form action="https://docs.google.com/forms/d/1QKYmGQDiyW1LwPd08unBAvWZCOMWhe_gZVuBZWcNLeM/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
