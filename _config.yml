@@ -35,21 +35,21 @@ twitter_handle: '@UoMBioinfoSoc'
 social:
   - icon:	twitter
     url:	https://twitter.com/UoMBioinfoSoc
-    desc: Follow me on twitter
+    desc: Follow us on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - icon:	facebook
     url:	https://facebook.com/UoMBioinfoSoc
-    desc: Connect with me facebook
+    desc: Keep up to date via Facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
   - icon:	github
     url:	https://github.com/UoMBioinfoSoc
-    desc:	Check out our source code on GitHub
+    desc:	Find source code for our talks, workshops and this site on GitHub
     share_url:
     share_title:
     share_link:
