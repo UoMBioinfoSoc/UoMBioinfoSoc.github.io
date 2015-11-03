@@ -48,13 +48,14 @@ body
   background-color: #000
   overflow: hidden
   z-index: 99
+  -moz-box-shadow:    3px 3px 5px 2px #ccc
+  -webkit-box-shadow: 3px 3px 5px 2px #ccc
+  box-shadow:         3px 3px 5px 2px #ccc
   .logo
     display: block
     position: absolute
-    top: $rs/2
-    left: $rs/2
-    width: $rs*2
-    height: $rs*2
+    width: $rs*3
+    height: $rs*3
     background-size: cover
     background-repeat: no-repeat
 
@@ -382,9 +383,7 @@ body
       -moz-hyphens: auto
       hyphens: auto
     a
-      color: #22118C
-    a:hover
-        color: blue
+      color: blue
     img
       max-width: 100%
       margin: 0 auto
@@ -620,6 +619,7 @@ a:hover
 
 article.post section.post-content table
   width: 100%
+  padding-bottom: 2em
   font-size: 19px
   tr:nth-child(even)
     background-color: #75E7B7
