@@ -86,7 +86,7 @@ span.ss-required-asterisk {
 .widetextarea {
     width: 90%;
     margin-top: 8px;
-    background: rgb(196, 196, 255);
+    background: rgb(244, 221, 149);
     border: none;
 }
 
