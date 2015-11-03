@@ -6,7 +6,7 @@ tags:
 image: /assets/article_images/2015-10-24-hello-world/bioinfo_soc_logo_banner.jpg
 ---
 
-We have come up with a schedule for our first few talks in the _Code for Life_ seminar/workshop series, in Stopford G.054 for the first week then moving for the foreseeable future to Stopford 1.065.
+We have come up with a schedule for our first few talks in the _Code for Life_ seminar/workshop series, in Stopford G.054 for the first week then moving for the foreseeable future to Stopford 1.065:
 
 * [_Code for Life - Git, GitHub, and Git LFS_](https://www.facebook.com/events/857217957729738/) (Louis Maddox), Stopford G.054 [_by PC Cluster 1_]
 * _Code for Life - Introduction to SQL_ (Mark Reardon), Stopford 1.065
