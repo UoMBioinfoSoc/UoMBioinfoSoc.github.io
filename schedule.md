@@ -35,4 +35,4 @@ We are looking for speakers on core computational skills which are not covered i
 FLS faculty teaching, as part of our _Code For Life_ workshop series - if you are
 available on Friday afternoons and willing to present, please [get in touch](mailto:UoMBioinfoSoc@gmail.com).
 
-Want to give a talk? Have questions, or is there something you would particularly like to hear more about? Get in touch: [UoMBioinfoSoc@gmail.com](mailto:UoMBioinfoSoc@gmail.com)
+Our email is [UoMBioinfoSoc@gmail.com](mailto:UoMBioinfoSoc@gmail.com), and our "listserv" mailing list is _BIOINFO-SOC_. [Sign up](http://uombio.info/join/) to receive an invitation.
