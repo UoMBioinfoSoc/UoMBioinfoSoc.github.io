@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sign up questionnaire
+permalink: /signup/
 ---
 
 Bioinformatics Society at the University of Manchester, based out of the Faculty of Life Sciences (all faculties welcome at our events). We organise training events and seminars in computational biology.
