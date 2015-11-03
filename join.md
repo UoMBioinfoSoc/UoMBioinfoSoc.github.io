@@ -390,7 +390,7 @@ li.ss-choice-item.fri.four::after {
 
 <ul class="ss-choices ss-choices-required" role="group" aria-label="What operating system (OS) do you use? Most bioinformatics software runs on &quot;Unix&quot; - if you're on Windows we can help fix you up with a &quot;virtual machine&quot; running Unix, or even install it alongside Windows. "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1174218478" value="Windows" id="group_1174218478_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Windows</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1174218478" value="Apple OS X (Mac)" id="group_1174218478_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1174218478" value="Mac OS X (Apple)" id="group_1174218478_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Apple OS X (Mac)</span>
 </label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1174218478" value="Linux" id="group_1174218478_3" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Linux</span>
