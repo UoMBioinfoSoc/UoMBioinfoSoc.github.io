@@ -7,8 +7,9 @@ gems:
   - jemoji
 
 # Site settings
+longtitle: "University of Manchester Bioinformatics Society"
 title: "UoM Bioinfo Soc"
-description: "Bioinformatics Society at the University of Manchester Faculty of Life Sciences. We organise training events and seminars in computational biology."
+description: "Bioinformatics Society at the University of Manchester Faculty of Life Sciences. We organise training events and seminars in bioinformatics and computational biology."
 
 email: uombioinfosoc@gmail.com
 #blog logo
