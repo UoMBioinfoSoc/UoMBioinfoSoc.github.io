@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Questions?
-permalink: /ask-us/
+permalink: /contact/
 ---
 
 # Contact, feedback, and questions
