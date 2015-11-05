@@ -6,9 +6,9 @@ permalink: /contact/
 
 # Contact, feedback, and questions
 
-We're publishing responses to our FAQs on [a Wiki](https://github.com/UoMBioinfoSoc/Home/wiki), and now you can submit your own here.
+We're publishing responses to our FAQs on [a Wiki](https://github.com/UoMBioinfoSoc/Home/wiki), and you can submit your own here.
 
-Ask below: please feel free to leave contact details and we'll get back to you.
+Feel free to leave contact details, and we'll get back to you.
 
 Not a simple Q&A? Write to us at UoMBioinfoSoc@gmail.com
 
