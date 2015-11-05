@@ -8,7 +8,7 @@ permalink: /contact/
 
 We're publishing responses to our FAQs on [a Wiki](https://github.com/UoMBioinfoSoc/Home/wiki), and you can submit your own here.
 
-Feel free to leave contact details, and we'll get back to you.
+Feel free to leave some contact details, and we'll get back to you.
 
 Not a simple Q&A? Write to us at UoMBioinfoSoc@gmail.com
 
@@ -71,7 +71,7 @@ ul.ss-choices.required {
     color: #c43b1d
 }
 
-.split-inline {
+split-inline {
   width: 40%;
   display: inline-block;
 }
@@ -243,6 +243,5 @@ function FQcbChange(cb) {
 <input type="hidden" name="fbzx" value="-7497941239962943910">
 
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
-<div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div></td>
+<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action "></td>
 </tr></tbody></table></div></ol></form>
