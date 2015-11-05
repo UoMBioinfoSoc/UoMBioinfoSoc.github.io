@@ -83,7 +83,7 @@ span.ss-required-asterisk {
     color: rgb(255, 68, 0);
 }
 
-.widetextarea {
+.ss-q-long {
     width: 90%;
     margin-top: 8px;
     background: rgb(244, 221, 149);
@@ -269,7 +269,7 @@ li.ss-choice-item.fri.four::after {
 <label class="ss-q-item-label" for="entry_1214557537"><div class="ss-q-title">If applicable, please describe the research project / questions you are working on
 </div>
 <div class="ss-q-help ss-secondary-text" dir="auto">Be as vague or as detailed as you like, just to give an idea of your motivation.</div></label>
-<textarea name="entry.1214557537" rows="8" cols="0" class="ss-q-long widetextarea" id="entry_1214557537" dir="auto" aria-label="If applicable, please describe the research project / questions you are working on Be as vague or as detailed as you like, just to give an idea of your motivation. "></textarea>
+<textarea name="entry.1214557537" rows="8" cols="0" class="ss-q-long" id="entry_1214557537" dir="auto" aria-label="If applicable, please describe the research project / questions you are working on Be as vague or as detailed as you like, just to give an idea of your motivation. "></textarea>
 <div class="error-message" id="1744126366_errorMessage"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="errorbox-good" role="listitem">
@@ -295,7 +295,7 @@ li.ss-choice-item.fri.four::after {
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<textarea name="entry.186341228" rows="8" cols="0" class="ss-q-long widetextarea" id="entry_186341228" dir="auto" aria-label="What do you know about bioinformatics, and what practical experience do you have in it (if any)?  " aria-required="true" required=""></textarea>
+<textarea name="entry.186341228" rows="8" cols="0" class="ss-q-long" id="entry_186341228" dir="auto" aria-label="What do you know about bioinformatics, and what practical experience do you have in it (if any)?  " aria-required="true" required=""></textarea>
 <div class="error-message" id="2091183993_errorMessage"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
@@ -322,7 +322,7 @@ li.ss-choice-item.fri.four::after {
 <label class="ss-q-item-label" for="entry_481768040"><div class="ss-q-title">What analysis/scientific software have you worked with?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<textarea name="entry.481768040" rows="8" cols="0" class="ss-q-long widetextarea" id="entry_481768040" dir="auto" aria-label="What analysis/scientific software have you worked with?  "></textarea>
+<textarea name="entry.481768040" rows="8" cols="0" class="ss-q-long" id="entry_481768040" dir="auto" aria-label="What analysis/scientific software have you worked with?  "></textarea>
 <div class="error-message" id="944059391_errorMessage"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
@@ -331,7 +331,7 @@ li.ss-choice-item.fri.four::after {
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto">This could be tools, a specific set of skills, general area(s) of interest, or a planned project (etc.)</div></label>
-<textarea name="entry.1293884029" rows="8" cols="0" class="ss-q-long widetextarea" id="entry_1293884029" dir="auto" aria-label="What would you like to learn about (and why)? This could be tools, a specific set of skills, general area(s) of interest, or a planned project (etc.) " aria-required="true" required=""></textarea>
+<textarea name="entry.1293884029" rows="8" cols="0" class="ss-q-long" id="entry_1293884029" dir="auto" aria-label="What would you like to learn about (and why)? This could be tools, a specific set of skills, general area(s) of interest, or a planned project (etc.) " aria-required="true" required=""></textarea>
 <div class="error-message" id="1692948804_errorMessage"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
@@ -440,7 +440,7 @@ li.ss-choice-item.fri.four::after {
 <label class="ss-q-item-label" for="entry_1554958935"><div id="thank" class="ss-q-title">Thanks for filling out our questionnaire! We'll send you an email with instructions to join the mailing list. 
 </div>
 <div class="ss-q-help ss-secondary-text" dir="auto">If there are any other comments you'd like to add or questions to ask, fire away.</div></label>
-<textarea name="entry.1554958935" rows="8" cols="0" class="ss-q-long widetextarea" id="entry_1554958935" dir="auto" aria-label="Thanks for filling out our questionnaire! We'll send you an email with instructions to join the mailing list.  If there are any other comments you'd like to add or questions to ask, fire away. "></textarea>
+<textarea name="entry.1554958935" rows="8" cols="0" class="ss-q-long" id="entry_1554958935" dir="auto" aria-label="Thanks for filling out our questionnaire! We'll send you an email with instructions to join the mailing list.  If there are any other comments you'd like to add or questions to ask, fire away. "></textarea>
 <div class="error-message" id="1300026718_errorMessage"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div>
