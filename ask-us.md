@@ -12,7 +12,7 @@ Ask below, anonymously or with an email address to contact you on.
 
 Not a simple Q&A? Write to us at UoMBioinfoSoc@gmail.com
 
-If you haven't done so yet, you can also leave your thoughts when you [sign up](http://uombio.info/join/) to our internal announcements list. Let us know what level you're working at, and which topics you're hoping to learn about through our events.
+<small>If you haven't done so yet, you can also leave your thoughts when you [sign up](http://uombio.info/join/) to our internal announcements list. Let us know what level you're working at, and which topics you're hoping to learn about through our events.</small>
 
 <style type="text/css">
 
