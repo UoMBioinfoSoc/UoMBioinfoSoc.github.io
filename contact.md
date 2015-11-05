@@ -8,7 +8,7 @@ permalink: /contact/
 
 We're publishing responses to our FAQs on [a Wiki](https://github.com/UoMBioinfoSoc/Home/wiki), and now you can submit your own here.
 
-Ask below, anonymously or with an email address to contact you on.
+Ask below: please feel free to leave contact details and we'll get back to you.
 
 Not a simple Q&A? Write to us at UoMBioinfoSoc@gmail.com
 
