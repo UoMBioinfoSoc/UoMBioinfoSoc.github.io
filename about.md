@@ -8,4 +8,4 @@ Bioinformatics Society at the University of Manchester, based out of the Faculty
 
 Want to give a talk? Have questions, or is there something you would particularly like to hear more about? [Click here to contact us](http://uombio.info/contact).
 
-_You can find the source code for this site over on [Github](https://github.com/UoMBioinfoSoc/UoMBioinfoSoc.github.io)._
+_You can find the source code for this site [over on Github](https://github.com/UoMBioinfoSoc/UoMBioinfoSoc.github.io)._
