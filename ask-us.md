@@ -4,11 +4,15 @@ title: Questions?
 permalink: /ask-us/
 ---
 
-# Question submission
+# Contact, feedback, and questions
 
-We're publishing responses to our FAQs on a Wiki, and now you can submit your own here. Ask us below, anonymously or with an email address for us to contact you on. Not a simple question? Contact us through the email at: uombio.info/about
+We're publishing responses to our FAQs on [a Wiki](https://github.com/UoMBioinfoSoc/Home/wiki), and now you can submit your own here.
 
-If you haven't done so yet, you can also leave your thoughts when you [sign up to our internal announcements list](http://uombio.info/join/). Let us know what your interests are, and which topics you're hoping to find out about through our events.
+Ask below, anonymously or with an email address to contact you on.
+
+Not a simple Q&A? Write to us at UoMBioinfoSoc@gmail.com
+
+If you haven't done so yet, you can also leave your thoughts when you [sign up to our internal announcements list](http://uombio.info/join/). Let us know what level you're working at, and which topics you're hoping to learn about through our events.
 
 <style type="text/css">
 
