@@ -36,7 +36,7 @@ twitter_handle: '@UoMBioinfoSoc'
 social:
   - icon:	twitter
     url:	https://twitter.com/UoMBioinfoSoc
-    desc: Follow us on twitter
+    desc: Follow us on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -50,7 +50,7 @@ social:
 
   - icon:	github
     url:	https://github.com/UoMBioinfoSoc
-    desc:	Find slides and source code for our talks/workshops
+    desc:	Slides and source code for our talks/workshops
     
   - icon:       youtube
     url:        https://www.youtube.com/channel/UCC2Xp-R9IMmtxXqKVOX6WCw
