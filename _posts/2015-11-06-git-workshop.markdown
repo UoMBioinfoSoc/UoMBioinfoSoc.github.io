@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Schedule"
+date:   2015-10-28 09:20:00
+tags: 
+image: /assets/article_images/2015-10-24-hello-world/bioinfo_soc_logo_banner.jpg
+---
+
+We have come up with a schedule for our first few talks in the _Code for Life_ seminar/workshop series, in Stopford G.054 for the first week then moving for the foreseeable future to Stopford 1.065:
+
+* [_Code for Life - Git, GitHub, and Git LFS_](https://www.facebook.com/events/857217957729738/) (Louis Maddox), Stopford G.054 [_by PC Cluster 1_]
+* _Code for Life - Introduction to SQL_ (Mark Reardon), Stopford 1.065
+
+Full schedule for following weeks: [uombio.info/schedule](http://uombio.info/schedule/).
+
+These events are open to undergrads, postgrads, and researchers: please take a moment to fill out [our signup questionnaire](http://uombio.info/join) to register your interest and receive an invitation to the mailing list.

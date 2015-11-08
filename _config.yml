@@ -14,6 +14,7 @@ description: "Bioinformatics Society at the University of Manchester Faculty of 
 email: uombioinfosoc@gmail.com
 #blog logo
 logo: "/assets/images/bioinfo_soc_logo_300x300.jpg"
+big-logo: "/assets/images/bioinfo_soc_logo_square_fullsize.png"
 # blog cover
 cover: "/assets/images/bioinfo_soc_logo_banner.jpg"
 footer_cover: "/assets/images/bioinfo_soc_logo_banner_fade.jpg"
@@ -24,7 +25,7 @@ author_image: "/assets/images/bioinfo_soc_logo_300x300.jpg"
 
 paginate:	5
 
-url: "http://UoMBioinfoSoc.github.io" # the base hostname & protocol for your site
+url: "http://uombio.info" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@UoMBioinfoSoc'
