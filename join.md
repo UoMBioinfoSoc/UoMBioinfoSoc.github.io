@@ -8,6 +8,12 @@ permalink: /join/
 
 Thanks for your interest in Bioinfo Soc! Please let us know a bit about you and we will send you an invitation to our internal mailing list.
 
+### Just want to get on the mailing list?
+
+Sign up directly by emailing listserv@listserv.manchester.ac.uk with the command `subscribe BIOINFO-SOC` in the message body. You will receive instructions to confirm your subscription.
+
+> _If you can spare 5 minutes to fill out the form below, we appreciate your help to tailor these events to our members._
+
 <style type="text/css">
 
 .form-error-arg {

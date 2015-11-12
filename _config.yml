@@ -3,8 +3,8 @@ markdown: redcarpet
 redcarpet:
           extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter: pygments
-gems:
-  - jemoji
+#gems:
+#  - jemoji
 
 # Site settings
 longtitle: "University of Manchester Bioinformatics Society"
