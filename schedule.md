@@ -10,15 +10,15 @@ The first society events will be a seminar/workshop series where we bring laptop
 
 |Date | Presenter | Topic | Room |
 |----- | -------|--------|------|
-|13th Nov 2015 | Mark Reardon | Introduction to SQL|_1.065_|
-|20th Nov 2015 | Yiying Lang | RNA-seq analysis with Cufflinks/Tophat |_1.065_|
+|13th Nov 2015 | Mark Reardon | [Introduction to SQL](https://www.facebook.com/events/158390151182869/)|_1.065/6_|
+|20th Nov 2015 | Yiying Lang | [RNA-seq analysis with Cufflinks/Tophat](https://www.facebook.com/events/1520097534976884) |_1.065/6_|
 
 ### Past events
 
 
 |Date | Presenter | Topic | Room |
 |----- | -------|--------|------|
-|6th Nov 2015 | Louis Maddox | [Git, GitHub, and Git Large File Storage](https://www.facebook.com/events/857217957729738/)|G.054|
+|6th Nov 2015 | Louis Maddox | [Git, GitHub, and Git Large File Storage](https://www.facebook.com/events/857217957729738/)|_G.054_|
 
 ### Proposed future events/session ideas:
 
