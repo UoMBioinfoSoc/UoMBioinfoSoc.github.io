@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Videos
 permalink: /videos/
 ---
