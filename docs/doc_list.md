@@ -8,6 +8,8 @@ permalink: /docs/
 
 Slides and code repositories from our workshops:
 
+* [Linux Mint dual boot guide](linux_mint_dual_boot_installation_guide.pdf) ([useful links](linux_mint_dual_boot_useful_links.pdf)) (Maximilien Rothier Bautzer, 27th Nov 2015) 
+* [VirtualBox/Linux Mint virtual machine installation guide](linux_mint_virtualbox_installation_guide.pdf) (Nick Pettican, 27th Nov 2015)
 * [TopHat/Cufflinks](yl-rna-seq.pdf) ([installation guide](install-tuxedo.pdf)) (Yiying Lang, 20th Nov 2015) 
   * Repo: [UoMBioinfoSoc/rna-seq-intro](https://github.com/UoMBioinfoSoc/rna-seq-intro)
 * [Introduction to SQL](sql-intro.pdf) (Mark Reardon, 13th Nov 2015)
