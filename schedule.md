@@ -31,7 +31,6 @@ Some proposed sessions we are seeking volunteers for:
 
 * ggplot show-and-tell: demonstrate and describe your plots and ggplot tricks.
 * Jupyter code notebooks & IPython workshop.
-* Docker for bioinformatics / Biodocker etc.
 * Invited faculty/guest speakers (_seeking UoM faculty / recommendations for external invitation, expenses covered_)
 * Training/discussion session: "_Dealing with exceptions to the rule_" - avoiding assumptions when programming, and defensive strategies for bioinformatics applications.
 
