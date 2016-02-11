@@ -6,17 +6,18 @@ permalink: /schedule/
 
 ### _Code for Life_
 
-The first society events will be a seminar/workshop series where we bring laptops along and teach each other tools of the trade. Stopford building, 4-5pm Fridays.
+Society seminars/workshops are held in Stopford building, 4-5pm Fridays. New semester series to be announced soon!
 
 |Date | Presenter | Topic | Room |
+|TBC | - | - |_1.065/6_|
 |----- | -------|--------|------|
-|20th Nov 2015 | Yiying Lang | [RNA-seq analysis with Cufflinks/Tophat](https://www.facebook.com/events/1520097534976884) |_1.065/6_|
 
 ### Past events
 
 
 |Date | Presenter | Topic | Room |
 |----- | -------|--------|------|
+|20th Nov 2015 | Yiying Lang | [RNA-seq analysis with Cufflinks/Tophat](https://www.facebook.com/events/1520097534976884) |_1.065/6_|
 |13th Nov 2015 | Mark Reardon | [Introduction to SQL](https://www.facebook.com/events/158390151182869/)|_1.065/6_|
 |6th Nov 2015 | Louis Maddox | [Git, GitHub, and Git Large File Storage](https://www.facebook.com/events/857217957729738/)|_G.054_|
 
