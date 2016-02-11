@@ -17,6 +17,8 @@ Society seminars/workshops are held in Stopford building, 4-5pm Fridays. New sem
 
 |Date | Presenter | Topic | Room |
 |----- | -------|--------|------|
+|11th Dec 2015 | Christian Brenninkmeijer | [Docker for bioinformatics](https://www.facebook.com/events/465963576940825/) |_1.065/6_|
+|27th Nov 2015 | Max Rothier Bautzer and Nick Pettican | [Linux boot camp](https://www.facebook.com/events/909402889097702/) |_1.065/6_|
 |20th Nov 2015 | Yiying Lang | [RNA-seq analysis with Cufflinks/Tophat](https://www.facebook.com/events/1520097534976884) |_1.065/6_|
 |13th Nov 2015 | Mark Reardon | [Introduction to SQL](https://www.facebook.com/events/158390151182869/)|_1.065/6_|
 |6th Nov 2015 | Louis Maddox | [Git, GitHub, and Git Large File Storage](https://www.facebook.com/events/857217957729738/)|_G.054_|
