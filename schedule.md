@@ -9,8 +9,8 @@ permalink: /schedule/
 Society seminars/workshops are held in Stopford building, 4-5pm Fridays. New semester series to be announced soon!
 
 |Date | Presenter | Topic | Room |
-|TBC | - | - |_1.065/6_|
 |----- | -------|--------|------|
+|TBC | - | - |_1.065/6_|
 
 ### Past events
 
